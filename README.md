@@ -350,7 +350,6 @@ Our baseline vibration value was fixed at 8 and normal temperature below 40.
 If anyone is more, it predicts the abnormality and LED will get turned on and status as alert sent to the user.
 If both are abnormal or above threshold, then then fault alert is sent to the user.
 <img width="1747" height="368" alt="image" src="https://github.com/user-attachments/assets/0f05f354-cf93-46f9-be8e-71ebf911af6d" />
-
 <img width="1720" height="1017" alt="image" src="https://github.com/user-attachments/assets/25b17404-3a08-4e68-9893-4648e61d1843" />
 
 #Advantages:
