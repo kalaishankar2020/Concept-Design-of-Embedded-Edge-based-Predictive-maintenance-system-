@@ -51,11 +51,10 @@ Window Watchdog (WWDG) configured to prevent system hang
 Watchdog Timers
 Independent Watchdog (IWDG) enabled for system safety 
 Window Watchdog (WWDG) configured to prevent system hang
-<img width="1067" height="171" alt="image" src="https://github.com/user-attachments/assets/b6a61550-10fa-4969-8b58-82f9cdac220c" />
+
 Interrupt Configuration
 EXTI0 interrupt enabled for PA0 
 Used to count vibration pulses in real-time
-<img width="743" height="171" alt="image" src="https://github.com/user-attachments/assets/6d199673-a0a3-4414-9e91-1e7f190c18bc" />
 Clock configuration:
 <img width="1787" height="829" alt="image" src="https://github.com/user-attachments/assets/74171d16-1e41-4865-b158-89c978fe8749" />
 
