@@ -42,12 +42,7 @@ GPIO Configuration
 PA0 - configured as interrupt input (EXTI) for vibration sensor (SW420) 
 PB0 -Manual reset button configured as input with pull-up resistor 
 PB1-Status LED configured as output pin
-<img width="741" height="550" alt="image" src="https://github.com/user-attachments/assets/e7b5c240-e273-4f67-862d-b63371347d3d" />
 
-#Watchdog Timers
-Independent Watchdog (IWDG) enabled for system safety 
-Window Watchdog (WWDG) configured to prevent system hang
-<img width="1067" height="171" alt="image" src="https://github.com/user-attachments/assets/ab98076d-bf82-4c54-beb7-afd996f565dd" />
 Watchdog Timers
 Independent Watchdog (IWDG) enabled for system safety 
 Window Watchdog (WWDG) configured to prevent system hang
@@ -56,7 +51,6 @@ Interrupt Configuration
 EXTI0 interrupt enabled for PA0 
 Used to count vibration pulses in real-time
 Clock configuration:
-<img width="1787" height="829" alt="image" src="https://github.com/user-attachments/assets/74171d16-1e41-4865-b158-89c978fe8749" />
 
 #STM32CubeIDE code:
 
