@@ -345,8 +345,8 @@ If both are abnormal or above threshold, then then fault alert is sent to the us
 
 #Advantages:
 
-Early Fault Detection
-Low Cost Implementation
+Early Fault Detection 
+Low Cost Implementation 
 Simple and Efficient Design
 
 
