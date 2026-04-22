@@ -286,9 +286,8 @@ static void MX_GPIO_Init(void)
 
 
 
-/* Interrupt callback */
 
-/* 🔥 ADD THIS FUNCTION HERE */
+
 float DS18B20_ReadTemp(void)
 {
     return 28.0;
